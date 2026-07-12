@@ -1,4 +1,7 @@
 # Automated Fire Detection and Safety Alert System using IOT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## Overview
 
@@ -10,6 +13,19 @@ This project demonstrates the fundamentals of sensor interfacing, digital input 
 
 ---
 
+## Getting Started
+
+1. Clone this repository
+2. Open `.ino` file in Arduino IDE
+3. Assemble the circuit on a breadboard as per the circuit connections table above (Flame Sensor, LED, Buzzer)
+4. Connect the Arduino Uno to your computer via USB cable
+5. Select the correct Board (Arduino Uno) and Port in Arduino IDE
+6. Upload the code to the Arduino
+7. Open the Serial Monitor and set the baud rate to **9600**
+8. Test by bringing a small flame (like a lighter, from a safe distance) near the flame sensor to trigger the alert
+
+---
+   
 # Objectives
 
 - Detect fire using a flame sensor.
