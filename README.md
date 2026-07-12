@@ -16,7 +16,7 @@ This project demonstrates the fundamentals of sensor interfacing, digital input 
 ## Getting Started
 
 1. Clone this repository
-2. Open `.ino` file in Arduino IDE
+2. Open the `.ino` file in Arduino IDE
 3. Assemble the circuit on a breadboard as per the circuit connections table above (Flame Sensor, LED, Buzzer)
 4. Connect the Arduino Uno to your computer via USB cable
 5. Select the correct Board (Arduino Uno) and Port in Arduino IDE
