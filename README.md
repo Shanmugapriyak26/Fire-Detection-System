@@ -187,7 +187,7 @@ Fire-Detection-System/
 
 ![Flow Diagram](Images/Flow_Diagram.png)
 
---
+---
 
 # Author
 
